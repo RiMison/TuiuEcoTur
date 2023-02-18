@@ -346,10 +346,10 @@ div img {
     .linha {
         display: grid;
         column-gap: 50px;
-        row-gap: 50px;
+        row-gap: 60px;
         grid-template-columns: auto auto;
         background-color: transparent;
-        padding: 2px;
+        padding: 5px;
     }
     
     div img {
