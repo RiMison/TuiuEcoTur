@@ -350,6 +350,7 @@ div img {
         grid-template-columns: auto auto;
         background-color: transparent;
         padding: 5px;
+        border:5%;
     }
     
     div img {
