@@ -349,7 +349,7 @@ div img {
         row-gap: 50px;
         grid-template-columns: auto auto;
         background-color: transparent;
-        padding: 5px;
+        padding: 2px;
     }
     
     div img {
