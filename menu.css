@@ -79,6 +79,7 @@ a {
 
         border-bottom: 0.0625rem solid rgba(255,255,255);
         border-radius: 0;
+        font-size:2vw;
     }
 
     .label-menu {
@@ -97,7 +98,7 @@ a {
     .hamburger {
         border-top: 0.125rem solid;
         color: white;
-        margin~left:5%;
+        margin-left:5%;
  
     }
     .nav img{
