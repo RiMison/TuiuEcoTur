@@ -33,21 +33,21 @@ a {
 
 
 .header img{
-    margin: 5%;
+    margin: 1%;
 }
 
 .menu {
     list-style: none;
     display: flex;
-    gap: 0.6rem;
+    gap: 0.5rem;
     
 }
 
 .menu a {
     display: block;
-    padding: 2rem;
+    padding: 1rem;
     /* Comando para facilitar para quem usa touch no celular, aumentando a letra*/
-    border-radius: 0.6rem;
+    border-radius: 0.5rem;
 }
 
 .menu a:hover {
@@ -101,7 +101,7 @@ a {
     .hamburger {
         border-top: 0.125rem solid;
         color: white;
-        margin-left:5%;
+        
         
         
     }
@@ -120,7 +120,6 @@ a {
         height: 0.125rem;
         background: currentColor;
         margin-top: 0.3125rem;
-        
         transition: 0.3s;
     }
 
