@@ -11,8 +11,7 @@
 a {
     color: rgb(255,255,255);
     text-decoration: none;
-    letter-spacing: 6px;
-    
+    letter-spacing: 6px; 
 }
 
 .nav
@@ -26,11 +25,8 @@ a {
     scroll-behavior: smooth;
     position: fixed;
     width: 100%;
-    z-index: 1;
-   
-    
+    z-index: 1;  
 }
-
 
 .header img{
     margin: 1%;
@@ -66,7 +62,8 @@ a {
         display: block;
         position: fixed;
         top: 4.6875rem;
-        margin-right: 10%;
+        margin-right: 5%;
+        margin-left:5%;
         background: var(--royal-blue-light);
         text-align: center;
         width: 100%;
@@ -79,11 +76,9 @@ a {
     }
 
     .menu a {
-        
 
         border-bottom: 0.0625rem solid rgba(255,255,255);
         border-radius: 0;
-
     }
 
     .label-menu {
@@ -95,15 +90,15 @@ a {
         position: fixed;
         text-align: center;
         list-style: none;
+        margin-left:2%;
 
     }
 
     .hamburger {
         border-top: 0.125rem solid;
         color: white;
-        
-        
-        
+        margin~left:5%;
+ 
     }
     .nav img{
         margin-left: 70%;
@@ -121,6 +116,7 @@ a {
         background: currentColor;
         margin-top: 0.3125rem;
         transition: 0.3s;
+        margin-left:5%;
     }
 
     .checkbox:checked~.menu {
