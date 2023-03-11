@@ -44,6 +44,7 @@ a {
     padding: 1rem;
     /* Comando para facilitar para quem usa touch no celular, aumentando a letra*/
     border-radius: 0.5rem;
+    font-size:5vw;
 }
 
 .menu a:hover {
