@@ -41,7 +41,7 @@ a {
 
 .menu a {
     display: block;
-    padding: 1rem;
+    padding: 0.5rem;
     /* Comando para facilitar para quem usa touch no celular, aumentando a letra*/
     border-radius: 0.5rem;    
 }
@@ -60,7 +60,7 @@ a {
         display: block;
         position: fixed;
         top: 4.6875rem;
-        margin-right: 1rem;
+        
         background: var(--royal-blue-light);
         text-align: center;
         width: 100%;
@@ -83,19 +83,19 @@ a {
         display: flex;
         gap: 0.4rem;
         color: var(--white);
-        padding: 1rem 0;
+        padding: 0.5rem;
         cursor: pointer;
         position: fixed;
         text-align: center;
         list-style: none;
-        margin-left:2%;
+        
 
     }
 
     .hamburger {
         border-top: 0.125rem solid;
         color: white;
-        margin-left:10%;
+        margin-left:2%;
     }
     
     .nav img{
@@ -113,7 +113,7 @@ a {
         background: currentColor;
         margin-top: 0.3125rem;
         transition: 0.3s;
-        margin-left:5%;
+        
     }
 
     .checkbox:checked~.menu {
