@@ -347,7 +347,7 @@ div img {
         display: grid;
         column-gap: 50px;
         row-gap: 60px;
-        grid-template-columns: auto;
+        grid-template-columns: 25%, 25%, 25%, 25% ;
         background-color: transparent;
         padding: 5px;
         border:2%;
