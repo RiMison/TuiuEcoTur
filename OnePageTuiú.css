@@ -364,6 +364,7 @@ div img {
         display: grid;
         column-gap: 2px;
         row-gap: 10px;
+        margin-right:10%;
         grid-template-columns: auto, auto, auto, auto;
         background-color: transparent;
         padding: 5px; 
