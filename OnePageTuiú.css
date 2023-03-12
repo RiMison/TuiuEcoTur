@@ -317,7 +317,7 @@ h1 {
     display: grid;
     column-gap: 50px;
     row-gap: 50px;
-    grid-template-columns: 25%, 25%, 25%, 25%;
+    grid-template-columns: auto;
     background-color: rgb(255, 255, 255);
     padding: 10px;
 }
@@ -359,7 +359,7 @@ div img {
 }
 }
 
-@media only screen and (min-width:1050px) {
+@media only screen and (min-width:1000px) {
     .linha {
         display: grid;
         column-gap: 2px;
