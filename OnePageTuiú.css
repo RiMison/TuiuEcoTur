@@ -324,7 +324,7 @@ h1 {
 
 [class*="col-"] {
     background-color:transparent;
-    grid-template-columns: 80%;
+    grid-template-columns:auto;
     padding: 20px;
     margin-left:10%;
     font-size: 2vw;
