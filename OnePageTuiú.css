@@ -446,7 +446,7 @@ p {
     margin-top: 5%;
     margin: 2%;
     border-radius: 50px 8px 70px;
-    font-size:2vm;
+    font-size:4vm;
 }
 
 .experiencias1 {
@@ -459,6 +459,7 @@ p {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     border-radius: 50px 8px 70px;
     margin-top: 150px;
+    width: 80%;
 
 }
 
@@ -477,6 +478,7 @@ p {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     border-radius: 8px 50px 8px 70px;
     margin-top: 120px;
+    width: 80%;
 
 }
 
@@ -498,6 +500,7 @@ p {
     border-radius: 50px 8px 70px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     margin-top: 120px;
+    width: 80%;
 }
 
 .experiencias3 img {
@@ -516,6 +519,7 @@ p {
     border-radius: 8px 50px 8px 70px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     margin-top: 120px;
+    width: 80%;
 }
 
 .experiencias4 img {
@@ -534,6 +538,7 @@ p {
     border-radius: 50px 8px 70px;
     margin-top: 120px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+    width: 80%;
 }
 
 .experiencias5 img {
