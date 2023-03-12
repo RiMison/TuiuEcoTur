@@ -324,7 +324,7 @@ h1 {
 
 [class*="col-"] {
     background-color:transparent;
-    grid-template-columns:100%;
+    grid-template-columns:auto;
     padding: 20px;
     font-size: 2vw;
     text-align: center;
@@ -347,7 +347,7 @@ div img {
         display: grid;
         column-gap: 50px;
         row-gap: 60px;
-        grid-template-columns: 100%;
+        grid-template-columns: auto;
         background-color: transparent;
         padding: 5px;
         border:5%;
@@ -364,7 +364,7 @@ div img {
         display: grid;
         column-gap: 2px;
         row-gap: 10px;
-        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-columns: auto, auto, auto, auto;
         background-color: transparent;
         padding: 5px; 
         
