@@ -309,8 +309,6 @@ h1 {
 
 }
 
-
-
 /* Section roteiro */
 
 .linha {
@@ -363,7 +361,7 @@ div img {
         display: grid;
         column-gap: 2px;
         row-gap: 10px;
-        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-columns: 25%, 25%, 25%, 25%;
         background-color: transparent;
         padding: 5px; 
         
