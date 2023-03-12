@@ -363,11 +363,11 @@ div img {
     .linha {
         display: grid;
         column-gap: 2px;
-        row-gap: 10px;
+        row-gap: 8px;
         margin-left:5%;
         grid-template-columns: auto, auto, auto, auto;
         background-color: transparent;
-        padding: 5px; 
+        padding: 2px; 
         
     }
 
