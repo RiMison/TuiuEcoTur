@@ -317,7 +317,7 @@ h1 {
     display: grid;
     column-gap: 50px;
     row-gap: 50px;
-    grid-template-columns: auto;
+    grid-template-columns: 25%, 25%, 25%, 25%;
     background-color: rgb(255, 255, 255);
     padding: 10px;
 }
