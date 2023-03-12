@@ -55,7 +55,7 @@ a {
     display: none;
 }
 
-@media (max-width: 1344px) {
+@media (max-width: 1000px) {
     .menu {
         display: block;
         position: fixed;
