@@ -315,7 +315,7 @@ h1 {
     display: grid;
     column-gap: 50px;
     row-gap: 50px;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: auto;
     background-color: rgb(255, 255, 255);
     padding: 10px;
 }
@@ -344,7 +344,7 @@ div img {
         display: grid;
         column-gap: 50px;
         row-gap: 60px;
-        grid-template-columns: auto;
+        grid-template-columns: auto auto;
         background-color: transparent;
         padding: 5px;
         border:5%;
@@ -361,7 +361,7 @@ div img {
         display: grid;
         column-gap: 2px;
         row-gap: 10px;
-        grid-template-columns: auto auto;
+        grid-template-columns: auto auto auto auto;
         background-color: transparent;
         padding: 5px; 
         
